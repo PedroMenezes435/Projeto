@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto </h1>
 
 <p align="center">
-programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
